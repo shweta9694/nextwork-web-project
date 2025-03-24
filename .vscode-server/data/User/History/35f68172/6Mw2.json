@@ -1,0 +1,5 @@
+{
+    "remote.SSH.remotePlatform": {
+        "ec2-44-202-38-212.compute-1.amazonaws.com": "linux"
+    }
+}
